@@ -8,5 +8,25 @@
         "s3-admin-app/authorizer_rust/Cargo.toml",
         "analytics-extension/Cargo.toml",
         "s3-ops-rust-napi-lib/Cargo.toml"
-    ]
+    ],
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#97b1f2",
+        "activityBar.background": "#97b1f2",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#e31c55",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "commandCenter.border": "#15202b99",
+        "sash.hoverBorder": "#97b1f2",
+        "statusBar.background": "#6a8fec",
+        "statusBar.foreground": "#15202b",
+        "statusBarItem.hoverBackground": "#3d6de6",
+        "statusBarItem.remoteBackground": "#6a8fec",
+        "statusBarItem.remoteForeground": "#15202b",
+        "titleBar.activeBackground": "#6a8fec",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveBackground": "#6a8fec99",
+        "titleBar.inactiveForeground": "#15202b99"
+    },
+    "peacock.color": "#6a8fec"
 }

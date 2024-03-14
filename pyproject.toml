@@ -24,8 +24,9 @@ black = "^23.7.0"
 ipython = "^8.14.0"
 wheel = "^0.41.2"
 aiobotocore = "^2.6.0"
-uvloop = "^0.17.0"
+uvloop = "^0.18.0"
 aiolimiter = "^1.1.0"
+s3-ops-rust = {path = ".rust-lib/s3_ops_rust-0.1.0-cp312-cp312-macosx_10_12_x86_64.whl"}
 
 
 [tool.poetry.group.rust-dev-tools.dependencies]
